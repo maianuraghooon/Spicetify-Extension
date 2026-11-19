@@ -1,0 +1,11 @@
+{
+  "name": "Artist Songs Plus",
+  "description": "Shows all songs on an artist page with play counts, sortable, plus total plays for every album and single.",
+  "preview": "preview.png",
+  "main": "artistSongsPlus.js",
+  "readme": "README.md",
+  "authors": [
+    { "name": "maianuraghooon", "url": "https://github.com/maianuraghooon" }
+  ],
+  "tags": ["artist", "play count", "discography"]
+}
